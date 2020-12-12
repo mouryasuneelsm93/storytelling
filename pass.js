@@ -61,7 +61,7 @@ function ret()
 		 } 
 document.getElementById("radio1").innerHTML = localStorage.getItem("radio");
 document.getElementById("speed1").innerHTML = localStorage.getItem("speed");
-
+document.getElementById("num1").innerHTML = localStorage.getItem("num");
 document.getElementById("message").innerHTML = localStorage.getItem("mseg");
 	
 		//document.getElementById("result1").innerHTML=localStorage.getItem("tig");
